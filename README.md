@@ -1,1 +1,1 @@
-THis is a structured, step-by-step SQL skills showcase built around one real problem: sparse sales data with missing dates. Starting from a basic SELECT and building all the way up to recursive CTEs and LAG/LEAD window interpolation — 12 advanced SQL concepts, one clean progression.
+This is a structured, step-by-step SQL skills showcase built around one real problem: sparse sales data with missing dates. Starting from a basic SELECT and building all the way up to recursive CTEs and LAG/LEAD window interpolation — 12 advanced SQL concepts, one clean progression.
